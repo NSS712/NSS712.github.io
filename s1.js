@@ -6,7 +6,7 @@ var count=0;
 
 var num=function(){
     count+=1;
-    if(count<=5){
+    if(count<=10){
         var a=rand(0,li.length-1);
         var b=li[a];
         document.getElementById("a11").innerHTML=b.canteen;
