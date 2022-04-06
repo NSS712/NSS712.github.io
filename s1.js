@@ -24,13 +24,19 @@ var num=function(){
 var canteen=["学三","学四"];
 var li=[
     {"canteen":"学一","floor":"一楼","cate":"米饭+菜"},
+    {"canteen":"学一","floor":"一楼","cate":"酸汤扯面"},
+    {"canteen":"学一","floor":"一楼","cate":"牛肉汤"},
     {"canteen":"学一","floor":"二楼","cate":"麻辣香锅"},
     {"canteen":"学一","floor":"二楼","cate":"小份菜"},
     {"canteen":"学一","floor":"二楼","cate":"脆皮鸡饭"},
     {"canteen":"学一","floor":"二楼","cate":"麻辣烫"},
+    {"canteen":"学一","floor":"二楼","cate":"兰州拉面"},
+    {"canteen":"学一","floor":"二楼","cate":"小火锅"},
+    {"canteen":"学二","floor":"二楼","cate":"蛋炒饭"},
+    {"canteen":"学二","floor":"二楼","cate":"柠檬鱼"},
     {"canteen":"学三","floor":"一楼","cate":"米饭+菜"},
+    {"canteen":"学三","floor":"一楼","cate":"小盘鸡面"},
     {"canteen":"学三","floor":"二楼","cate":"炸鸡"},
-    {"canteen":"学三","floor":"二楼","cate":"小盘鸡面"},
     {"canteen":"学三","floor":"二楼","cate":"烤盘饭"},
     {"canteen":"学三","floor":"二楼","cate":"麻辣香锅"},
     {"canteen":"学三","floor":"二楼","cate":"石锅拌饭"},
@@ -42,6 +48,7 @@ var li=[
     {"canteen":"学四","floor":"二楼","cate":"黄焖鸡"},
     {"canteen":"学四","floor":"二楼","cate":"麻辣拌"},
     {"canteen":"学四","floor":"二楼","cate":"盖浇饭"},
+    {"canteen":"学四","floor":"二楼","cate":"鸭血粉丝"},
     {"canteen":"学五","floor":"一楼","cate":"米饭+菜"},
     {"canteen":"学五","floor":"一楼","cate":"牛肉饭"},
     {"canteen":"学五","floor":"一楼","cate":"刀削面"}
